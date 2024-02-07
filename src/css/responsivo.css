@@ -5,7 +5,7 @@
     }
 
     main .personagem .imagem {
-        object-fit: cover;
+        object-fit: fill;
         height: 85%;
     }
 
@@ -30,6 +30,7 @@
         align-items: flex-end;
         width: 100%;
         padding: 30px;
+        top: -10%;
     }
 
     .botoes .botao img {
@@ -57,7 +58,7 @@
 
     .botoes {
         padding: 20px;
-        top: -20%;
+        top: -22%;
     }
 
     .botoes .botao img {
